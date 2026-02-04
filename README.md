@@ -6,7 +6,7 @@
 
 ### 1.1 项目目标
 
-基于RimWorld的Rust重写，构建一个基于 Web 的世界模拟，为拟人类型AI AGENT提供一个可交互世界背景环境：
+基于RimWorld的Rust重写与改造，构建一个可持续运行的世界模拟服务端，为拟人类型AI AGENT提供一个可交互世界背景环境：
 
 - 多玩家可通过浏览器登录同一实例，管理自己的AI AGENT接入指定PAWN，查看自己PWAN感知范围的动态
 - 深度集成AI Agent，以一个AI AGENT接管一个PAWN为目标设计，同时大量无AI AGENT接管的PAWN按原本逻辑行动、演化构成世界模拟
